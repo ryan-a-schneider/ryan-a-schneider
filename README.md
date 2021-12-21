@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Ryan and I'm a fourth-year Clinical Psychology PhD candidate at Montclair State University.
+My name is Ryan Schneider, and I'm a fourth-year Clinical Psychology PhD candidate at Montclair State University.
+
+[![Generic badge](https://img.shields.io/badge/<CV>-<Ryan Schneider>-<brightgreen>.svg)](https://shields.io/)
 
 - 🔭 I’m currently working on a bunch of stuff
 - 🌱 I’m currently learning Bayes, clinical stuff, etc.
